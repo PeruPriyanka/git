@@ -1,1 +1,2 @@
-Hi this is my second_commit code of 2nd branch!!
+This is out second commit!!
+hello git world
